@@ -6,7 +6,7 @@ dist/
 !.env.example
 .openclaude-profile.json
 reports/
-package.json
+/package.json
 
 # DMCA-sensitive / copyrighted assets
 # Audio / video
