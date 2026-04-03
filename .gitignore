@@ -6,3 +6,53 @@ dist/
 !.env.example
 .openclaude-profile.json
 reports/
+package.json
+
+# DMCA-sensitive / copyrighted assets
+# Audio / video
+*.mp3
+*.wav
+*.flac
+*.m4a
+*.aac
+*.ogg
+*.mp4
+*.mkv
+*.mov
+*.avi
+*.webm
+
+# Books / documents that are often copyrighted
+*.pdf
+*.epub
+*.mobi
+
+# Fonts / design source files
+*.ttf
+*.otf
+*.woff
+*.woff2
+*.psd
+*.ai
+*.sketch
+
+# 3D and creative assets
+*.blend
+*.fbx
+*.obj
+*.glb
+*.gltf
+
+# Large packaged content and disk images
+*.zip
+*.rar
+*.7z
+*.iso
+
+# Model weights / checkpoints (often license-restricted)
+*.ckpt
+*.pt
+*.pth
+*.safetensors
+*.onnx
+*.bin
